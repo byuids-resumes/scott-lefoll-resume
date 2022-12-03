@@ -125,10 +125,10 @@ scottlefoll@gmail.com\
   ---------------------------------------------- ------------------------
 
 -   Developed department management software for two different state
-    agencies as a contractor
+    agencies as a contractor ***** (add result for how you impacted the business, ie which increased sales 3000%)
 
 -   Managed a team of five software developers & coordinated development
-    for one of those agencies
+    for one of those agencies ***** (add result for how you impacted the business, ie which increased sales 3000%)
 
 **Skills**
 
@@ -141,6 +141,6 @@ scottlefoll@gmail.com\
 
 -   Python, C++, HTML, CSS, JavaScript, SQL
 
--   Civil Air Patrol youth leader; BSA: Scoutmaster, District Committee
+'''-   Civil Air Patrol youth leader; BSA: Scoutmaster, District Committee '''
 
--   Various church positions; Little League coach, soccer coach
+'''-   Various church positions; Little League coach, soccer coach '''
